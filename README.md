@@ -1,3 +1,6 @@
+## 📽️ Presentation
+
+👉 [Click here to view the project presentation](./Investigating Appointment Trends, Regional Variation.pdf)
 ### Project Overview
 
 This project investigates appointment trends, regional variation and service efficiency within NHS healthcare delivery using multiple datasets. The analysis focuses on identifying demand patterns, evaluating workforce utilisation and assessing system performance across different regions and service types.
