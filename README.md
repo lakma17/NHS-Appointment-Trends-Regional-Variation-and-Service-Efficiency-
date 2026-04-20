@@ -1,6 +1,6 @@
 ## 📽️ Presentation
 
-[View Slides](https://presentation)
+👉 **[Open Presentation (PDF)](https://github.com/lakma17/lakma17-Impact-of-fertilizer-management-on-nitrous-oxide-emissions-and-crop-yield/raw/main/Finding.pdf)**
 ### Project Overview
 
 This project investigates appointment trends, regional variation and service efficiency within NHS healthcare delivery using multiple datasets. The analysis focuses on identifying demand patterns, evaluating workforce utilisation and assessing system performance across different regions and service types.
