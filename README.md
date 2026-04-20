@@ -1,6 +1,6 @@
 ## 📽️ Presentation
 
-👉 👉 **[Open Presentation (PDF)](https://github.com/lakma17/NHS-Appointment-Trends-Regional-Variation-and-Service-Efficiency-/blob/main/presentation.pdf)**
+👉 **[Open Presentation (PDF)](https://github.com/lakma17/NHS-Appointment-Trends-Regional-Variation-and-Service-Efficiency-/blob/main/presentation.pdf)**
 ### Project Overview
 
 This project investigates appointment trends, regional variation and service efficiency within NHS healthcare delivery using multiple datasets. The analysis focuses on identifying demand patterns, evaluating workforce utilisation and assessing system performance across different regions and service types.
