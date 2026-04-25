@@ -20,3 +20,6 @@ Data quality limitations impact the precision of insights.
 
 ### Conclusions
 The NHS appointment system reflects a high-demand environment, constrained capacity and increasing operational pressure. Workforce flexibility supports service delivery, inefficiencies remain due to uneven regional demand, missed appointments and limited adoption of digital consultation methods.
+
+## Keywords
+NHS analytics, healthcare data analysis, appointment demand, workforce utilisation, regional variation, service efficiency, public health analytics, time series analysis, tweet analysis
